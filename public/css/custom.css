@@ -1,0 +1,22 @@
+
+.wrapper{
+
+    border: 1px solid black !important;
+
+    padding: 20px;
+
+
+
+}
+
+.wrapper input{
+
+    border: 1px solid blue;
+}
+
+.cont{
+    margin-top: 150px;
+    
+    max-height: 100vh !important;
+
+}
